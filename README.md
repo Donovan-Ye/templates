@@ -5,7 +5,7 @@ This repository is used to store and manage templates for the [templates manager
 ## My templates
 <!-- tm-list-start -->
 
-- [electron-vite-react-boilerplate](git@github.com:Donovan-Ye/electron-vite-react-boilerplate.git)
-- [test](aaaa)
+- [electron-vite-react-boilerplate]([object Promise])
+- [test]([object Promise])
 
 <!-- tm-list-end -->
