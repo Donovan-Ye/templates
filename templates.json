@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "electron-vite-react-boilerplate",
+    "path": "git@github.com:Donovan-Ye/electron-vite-react-boilerplate.git"
+  }
+]
