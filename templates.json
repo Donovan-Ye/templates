@@ -4,10 +4,6 @@
     "path": "git@github.com:Donovan-Ye/electron-vite-react-boilerplate.git"
   },
   {
-    "name": "tauri-react",
-    "path": "git@github.com:Donovan-Ye/tauri-react-template.git"
-  },
-  {
     "name": "tauri-react-template",
     "path": "git@github.com:Donovan-Ye/tauri-react-template.git"
   }
