@@ -6,5 +6,9 @@
   {
     "name": "tauri-react-template",
     "path": "git@github.com:Donovan-Ye/tauri-react-template.git"
+  },
+  {
+    "name": "electron-react-shadcn-template",
+    "path": "git@github.com:Donovan-Ye/electron-react-shadcn-template.git"
   }
 ]
