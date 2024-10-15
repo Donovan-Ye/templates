@@ -6,6 +6,6 @@ This repository is used to store and manage templates for the [templates manager
 
 <!-- tm-list-start -->
 
-
+- [electron-react-shadcn-template](https://git@github.com/Donovan-Ye/electron-react-shadcn-template)
 
 <!-- tm-list-end -->

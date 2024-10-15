@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "electron-react-shadcn-template",
+    "path": "git@github.com:Donovan-Ye/electron-react-shadcn-template.git"
+  }
+]
