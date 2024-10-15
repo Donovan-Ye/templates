@@ -6,6 +6,6 @@ This repository is used to store and manage templates for the [templates manager
 
 <!-- tm-list-start -->
 
-- [test]()
+
 
 <!-- tm-list-end -->
